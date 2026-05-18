@@ -1,6 +1,3 @@
-Here's the README content — paste this into the GitHub editor:
-
-```markdown
 <div align="center">
 
 # Madhav
@@ -29,11 +26,10 @@ Lives on your screen edge. Syncs with Telegram. Always there.
 
 > Pick your platform from the **Assets** section on the release page.
 
-### Linux quick start
-```bash
-chmod +x Madhav-*.AppImage
-./Madhav-*.AppImage
-```
+**Linux quick start:**
+
+    chmod +x Madhav-*.AppImage
+    ./Madhav-*.AppImage
 
 ---
 
@@ -81,6 +77,3 @@ Madhav checks for updates automatically. When a new version is available, you'll
 <div align="center">
   <sub>Built with ❤ by <a href="https://nakulsrivastava.com">Nakul Srivastava</a> · Be Free From Mind</sub>
 </div>
-
-
-This gives users everything they need: download link, per-platform instructions, Linux quickstart command, feature list, Telegram setup guide, and all relevant links including the community channel.
