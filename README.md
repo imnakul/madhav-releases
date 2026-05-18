@@ -62,11 +62,13 @@ Madhav is a lightweight sidebar app that lives on the edge of your screen — al
 | | |
 |---|---|
 | 🌐 Landing page | [madhav.nakulsrivastava.com](https://madhav.nakulsrivastava.com) |
-| 💻 Source code | [github.com/imnakul/madhav](https://github.com/imnakul/madhav) |
-| 🐛 Issues & feedback | [github.com/imnakul/madhav/issues](https://github.com/imnakul/madhav/issues) |
 | 💬 Telegram community | [t.me/madhav_app](https://t.me/madhav_app) |
 
 ---
+<!--
+| 💻 Source code | [github.com/imnakul/madhav](https://github.com/imnakul/madhav) |
+| 🐛 Issues & feedback | [github.com/imnakul/madhav/issues](https://github.com/imnakul/madhav/issues) |
+-->
 
 ## Updates
 
