@@ -8,7 +8,7 @@
 
 A sidebar app that lives at the edge of your screen. Hit a shortcut, drop a thought, get back to work. Syncs with Telegram so you can capture from your phone too.
 
-[![Download](https://img.shields.io/badge/Download-Windows-4A90D9?style=for-the-badge&logo=windows)](https://github.com/imnakul/madhav-releases/releases/latest/download/Madhav-Setup-1.2.6.exe)
+[![Download](https://img.shields.io/badge/Download-Windows-4A90D9?style=for-the-badge&logo=windows)](https://github.com/imnakul/madhav-releases/releases/latest/download/Madhav-Setup-1.2.7.exe)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tfhY2H5HC3)
 [![Website](https://img.shields.io/badge/Website-Visit-4eb8c2?style=for-the-badge)](https://madhav.nakulsrivastava.com)
 
@@ -22,10 +22,10 @@ A sidebar app that lives at the edge of your screen. Hit a shortcut, drop a thou
 
 | Platform | Download |
 |---|---|
-| 🪟 **Windows** (x64 · x86) | [Madhav-Setup-1.2.6.exe](https://github.com/imnakul/madhav-releases/releases/latest/download/Madhav-Setup-1.2.6.exe) |
-| 🍎 **macOS** Apple Silicon | [Madhav-1.2.6-arm64.dmg](https://github.com/imnakul/madhav-releases/releases/latest/download/Madhav-1.2.6-arm64.dmg) |
-| 🍎 **macOS** Intel | [Madhav-1.2.6.dmg](https://github.com/imnakul/madhav-releases/releases/latest/download/Madhav-1.2.6.dmg) |
-| 🐧 **Linux** (x64) | [Madhav-1.2.6.AppImage](https://github.com/imnakul/madhav-releases/releases/latest/download/Madhav-1.2.6.AppImage) |
+| 🪟 **Windows** (x64 · x86) | [Madhav-Setup-1.2.7.exe](https://github.com/imnakul/madhav-releases/releases/latest/download/Madhav-Setup-1.2.7.exe) |
+| 🍎 **macOS** Apple Silicon | [Madhav-1.2.7-arm64.dmg](https://github.com/imnakul/madhav-releases/releases/latest/download/Madhav-1.2.7-arm64.dmg) |
+| 🍎 **macOS** Intel | [Madhav-1.2.7.dmg](https://github.com/imnakul/madhav-releases/releases/latest/download/Madhav-1.2.7.dmg) |
+| 🐧 **Linux** (x64) | [Madhav-1.2.7.AppImage](https://github.com/imnakul/madhav-releases/releases/latest/download/Madhav-1.2.7.AppImage) |
 
 > **Windows:** If SmartScreen shows a warning, click **More info → Run anyway**. The app isn't code-signed yet (certificate costs ~$400/yr) but is completely safe.
 
