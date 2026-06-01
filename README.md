@@ -1,10 +1,6 @@
 <div align="center">
 
-<br/>
-
-<img src="https://madhav.nakulsrivastava.com/logo.png" width="88" height="88" alt="Madhav" style="border-radius: 20px;" />
-
-<br/><br/>
+<img src="https://madhav.nakulsrivastava.com/logo.png" width="72" height="72" alt="Madhav" />
 
 # Madhav
 
@@ -16,11 +12,7 @@ A sidebar app that lives at the edge of your screen. Hit a shortcut, drop a thou
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tfhY2H5HC3)
 [![Website](https://img.shields.io/badge/Website-Visit-4eb8c2?style=for-the-badge)](https://madhav.nakulsrivastava.com)
 
-<br/>
-
-⭐ **If Madhav saves you even one minute, consider giving this repo a star — it really helps!**
-
-<br/>
+⭐ **If Madhav saves you even one minute, [give this repo a star](https://github.com/imnakul/madhav-releases) — it really helps!**
 
 </div>
 
