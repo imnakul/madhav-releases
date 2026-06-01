@@ -2,6 +2,10 @@
 
 <br/>
 
+<img src="https://madhav.nakulsrivastava.com/logo.png" width="88" height="88" alt="Madhav" style="border-radius: 20px;" />
+
+<br/><br/>
+
 # Madhav
 
 **Capture any thought in seconds — from your desktop or Telegram.**
@@ -11,6 +15,10 @@ A sidebar app that lives at the edge of your screen. Hit a shortcut, drop a thou
 [![Download](https://img.shields.io/badge/Download-Windows-4A90D9?style=for-the-badge&logo=windows)](https://github.com/imnakul/madhav-releases/releases/latest/download/Madhav-Setup-1.2.6.exe)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tfhY2H5HC3)
 [![Website](https://img.shields.io/badge/Website-Visit-4eb8c2?style=for-the-badge)](https://madhav.nakulsrivastava.com)
+
+<br/>
+
+⭐ **If Madhav saves you even one minute, consider giving this repo a star — it really helps!**
 
 <br/>
 
@@ -157,5 +165,13 @@ It keeps the app free and development going.
 ---
 
 <div align="center">
+
+  <br/>
+
+  ⭐ **Enjoying Madhav? [Star this repo](https://github.com/imnakul/madhav-releases) — it takes 2 seconds and means a lot.**
+
+  <br/>
+
   <sub>Built by <a href="https://nakulsrivastava.com">Nakul Srivastava</a> · Be Free From Mind.</sub>
+
 </div>
